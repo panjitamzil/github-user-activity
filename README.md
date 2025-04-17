@@ -58,5 +58,3 @@ Notes:
 - Ensure the GITHUB_TOKEN environment variable is set or a .env file is present in the project root.
 - Ensure your GitHub token has the necessary permissions (public_repo scope) to access user events.
 - For more details on the GitHub API, see the [official documentation](https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28).
-
-https://roadmap.sh/projects/github-user-activity
